@@ -59,6 +59,10 @@ git log --oneline
 ```
 git remote -v
 ```
+**`查看配置檔案內容:`**
+```
+git config --list
+```
 
 **`查看修改狀態:`**
 ```
@@ -124,7 +128,7 @@ git add -A
 
 git add .
 ```
-**`保留所有變更:`**
+**`提交所有變更:`**
 ```
 git commit -a -m "註解"
 ```

@@ -243,7 +243,7 @@ clip < id_rsa.pub
 
 <img src="./material/SSH輸入框.png" width="auto">
 
-+ **再次開啟CMD輸入,即可完整永久添加完畢**
++ **測試 SSH 是否連接到 GitHub**
 ```
 ssh -T git@github.com
 ```
