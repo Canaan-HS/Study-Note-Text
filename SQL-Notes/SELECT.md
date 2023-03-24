@@ -51,7 +51,7 @@ SELECT * FROM Customers
 WHERE CustomerID=10;
 ```
 
-**除了使用 = 找到特定的也能使用**
+**除了使用 = 找到特定的也能使用:**
 ```
 某數據 > 100的
 
@@ -77,7 +77,7 @@ WHERE CustomerID=10;
 <br><hr><br>
 
 
-**其他語法運算符**
+**其他語法運算符:**
 ```
 WHERE condition1 AND condition2 AND condition3 ...;
 
@@ -86,7 +86,7 @@ WHERE condition1 OR condition2 OR condition3 ...;
 WHERE NOT condition;
 ```
 
-**找尋空值或非空值(無法使用運算符)**
+**找尋空值或非空值(無法使用運算符):**
 >例如: 我要找顧客中 沒有聯絡人 和 地址的
 
 ```
@@ -120,7 +120,7 @@ WHERE NOT Country='Germany';
 ```
 <br><hr><br>
 
-**LIKE運算符**
+**LIKE運算符:**
 >找到顧客姓名為a開頭的
 
 ```
@@ -203,7 +203,7 @@ ORDER BY Country ASC, CustomerName DESC;
 
 <br><hr><br>
 
-**搜尋前5筆資料**
+**搜尋前5筆資料:**
 
 ```
 SELECT TOP 5 * FROM Customers;
@@ -221,7 +221,7 @@ SELECT * FROM Customers
 FETCH FIRST 5 ROWS ONLY;
 ```
 
-**搜尋百分比的資料**
+**搜尋百分比的資料:**
 > 前30%資料(1~28)
 
 ```
@@ -234,7 +234,7 @@ SELECT * FROM Customers
 FETCH FIRST 30 PERCENT ROWS ONLY;
 ```
 
-**加上 WHERE 進行篩選**
+**加上 WHERE 進行篩選:**
 > 國家為德國的前3筆資料
 
 ```
@@ -257,7 +257,7 @@ FETCH FIRST 3 ROWS ONLY;
 ```
 <br><hr><br>
 
-**MIN() 和 MAX() 函數**
+**MIN() 和 MAX() 函數:**
 
 >找出 定價Price 中最低價 並將資料名取為 SmallestPrice 列出
 
@@ -274,7 +274,7 @@ SELECT MAX(Price) AS LargestPrice FROM Products;
 
 <br><hr><br>
 
-**使用數學函數 COUNT()、AVG()、SUM()**
+**使用數學函數 COUNT()、AVG()、SUM():**
 >查找產品數量(不包含 NULL值)
 
 ```
