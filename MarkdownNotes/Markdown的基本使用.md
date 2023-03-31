@@ -178,3 +178,13 @@ $(document).ready(function () {
 \.   英文句點
 \!   感嘆號
 </pre>
+
+<hr>
+
+> 複選選項框
+
+- [x] A
+- [ ] B
+- [x] C
+- [ ] D
+- [x] E

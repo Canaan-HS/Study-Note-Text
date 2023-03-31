@@ -171,7 +171,7 @@ git reset --hard "版本號"
 查詢版本號(前面的數字就是) : git log --oneline 
 查完按<Kbd>Q</Kbd>退出
 
-git checkout 到要還原的分支
+git reset --hard 重製版本
 
 然後使用上面的指令
 </pre>
