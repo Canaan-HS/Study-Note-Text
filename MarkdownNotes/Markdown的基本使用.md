@@ -12,9 +12,9 @@
 ---
 ## 圖案
 
-| 鉛筆 | 電腦 | 雲朵 | 調色盤 | 存檔 | 咖啡 | 燈泡 | 工具 | 西瓜 | 筆記 |
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|:pencil2:|:computer:|:cloud:|:art:|:floppy_disk:|:coffee:|:bulb:|:wrench:|:watermelon:|:memo:|
+| 鉛筆 | 電腦 | 雲朵 | 調色盤 | 存檔 | 咖啡 | 燈泡 | 工具 | 西瓜 | 筆記 | 警告 |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|:pencil2:|:computer:|:cloud:|:art:|:floppy_disk:|:coffee:|:bulb:|:wrench:|:watermelon:|:memo:|:warning:|
 
 <hr>
 
@@ -188,3 +188,18 @@ $(document).ready(function () {
 - [x] C
 - [ ] D
 - [x] E
+
+<hr>
+
+> Mermaid 繪製流程圖
+
+~~**這東西有點複雜以後在學**~~
+
+```mermaid
+graph TD;
+    A[開始] -->|文字框| B(圓形框)
+    B<==並行==>B;
+    B --> C{決定}
+    C -->|One| D[決定 1]
+    C -->|Two| E[決定 2]
+```
