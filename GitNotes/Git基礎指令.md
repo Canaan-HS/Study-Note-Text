@@ -63,7 +63,25 @@ git remote -v
 ```
 git config --list
 ```
+**`查看暫存區內容:`**
+```
+git ls-files
+```
+**`查看修改前後差異:`**
+```
+git diff
 
+(比較兩版本之間差異)
+git diff <版本號> <版本號>
+或
+git diff HEAD~ HEAD
+
+(加上數字,比對當前與,提交前5次的版本)
+git diff HEAD~5 HEAD
+
+(再加上文件名,就只會顯示該文件差異)
+git diff HEAD~5 HEAD test.txt
+```
 **`查看修改狀態:`**
 ```
 git status --short
@@ -94,10 +112,31 @@ git branch -a
 git clone [項目網址].git
 ```
 **`配置設定 (GitHub ID & Mail):`**
+
+`--global是全局變數 , --system個別系統配置`
 ```
 git config --global user.name "YourName"
 git config --global user.email "Your@Mail"
 ```
+
+`設置認證輔助工具`
+```
+git config --global credential.helper <參數>
+
+參數:
+store：將認證信息以明文形式存儲在磁盤上。
+cache：在一段時間內（預設為 15 分鐘）將認證信息存儲在內存中。
+osxkeychain：使用 macOS 鑰匙串來存儲認證信息。
+wincred：使用 Windows 認證存儲來存儲認證信息。
+gnome-keyring：使用 GNOME Keyring 來存儲認證信息。
+libsecret：使用 freedesktop.org Secret Service API 來存儲認證信息
+```
+
+`查看配置訊息`
+```
+git config --global --list
+```
+
 **`Git初始化 (在要連結的資料夾內,使用CMD輸入):`**
 ```
 git init
@@ -153,6 +192,14 @@ git push
 ```
 git remote rm origin
 ```
+**`刪除文件:`**
+```
+(需另外更新暫存區)
+除了刪除本地文件後 , 再進行提交 , 也能使用以下命令
+
+(可直接刪除 , 暫存區和本地的檔案 , 在進行提交)
+git rm test.txt
+```
 **`切換分支:`**
 ```
 git checkout "分支名"
@@ -163,7 +210,14 @@ git branch -d "要刪除的分支"
 ```
 **`重製版本:`**
 ```
+(保留本地 與 暫存區 文件)
+git reset --soft "版本號"
+
+(刪除本地 與 暫存區 文件)
 git reset --hard "版本號"
+
+(保留本地 刪除 暫存區 文件)
+git reset --mixed "版本號"
 ```
 <pre>
 使用方法:
@@ -171,7 +225,7 @@ git reset --hard "版本號"
 查詢版本號(前面的數字就是) : git log --oneline 
 查完按<Kbd>Q</Kbd>退出
 
-git reset --hard 重製版本
+git reset --soft 重製版本
 
 然後使用上面的指令
 </pre>
