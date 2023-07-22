@@ -3,7 +3,7 @@
 </div>
 <hr>
 
-> ### 快速連結
+## 快速連結
 
 | :memo: | | | | | |
 | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -12,7 +12,7 @@
 
 <hr>
 
->**網頁架構**
+### 網頁架構
 ```html
 <!DOCTYPE html> [宣告文檔類型]
 <html lang="zh-tw">
@@ -34,7 +34,7 @@
 
 <hr id="meta">
 
->**meta 標籤常用設置**
+### meta 標籤常用設置
 + **詳細說明連結**
 + [爬蟲規範說明](replenish/爬蟲規範說明.md)
 + [Google 處理方式](replenish/Google內容處理.md)
@@ -71,7 +71,7 @@
 ```
 <hr id="link">
 
->**link 標籤**
+### link 標籤
 ```html
 <!DOCTYPE html>
 <html lang="zh-tw">
@@ -85,7 +85,7 @@
 + **type** `指定資源類型。例如 text/css 和 image/icon`
 + **sizes** `指定圖標尺寸。media: 指定樣式表適用的媒體類型`
 
->**rel 參數**
+**rel 參數**
 + `icon` : 指定一個圖標文件。
 + `tag` : 指定文檔的標籤或關鍵字。
 + `author` : 指定文檔作者的網址。
@@ -94,19 +94,19 @@
 + `prev , next` : 指定文檔的上一頁和下一頁鏈接。
 + `alternate` : 指定一個鏈接的替代版本，如舊版本或不同語言版本。
 
->**type 參數**
+**type 參數**
 + `text/css` : css 類型文件
 + `application/json` : json 類型文件
 + `text/javascript` : javascript 類型文件
 + `application/rss+xml` : 證書類型文件
 
->**sizes 參數**
+**sizes 參數**
 + `32x32` : 單位為像素
 + `16x16` : 單位為像素
 
 <hr id="base">
 
->**base 標籤**
+### base 標籤
 + **只能設置一個位置 , 作為根目錄**
 ```html
 <!DOCTYPE html>
@@ -119,7 +119,7 @@
 
 <hr id="script">
 
->**script 標籤**
+### script 標籤
 ```html
 <!DOCTYPE html>
 <html lang="zh-tw">
@@ -142,7 +142,7 @@
 
 <hr id="noscript">
 
->**noscript 標籤**
+### noscript 標籤
 ```html
 <!DOCTYPE html>
 <html lang="zh-tw">
