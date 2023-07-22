@@ -1,4 +1,4 @@
-# Google 搜索引擎處理方式
+# Google 搜索引擎處理方式 <a href="../Html_Head.md"><img src="../img/back.png" width="30"></a>
 ---
 ```html
 <!DOCTYPE html>
