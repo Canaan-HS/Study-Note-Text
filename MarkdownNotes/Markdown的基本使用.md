@@ -125,6 +125,9 @@ $(document).ready(function () {
 文字連結 : `[連結文字] (連結)`
 [我的GitHub](https://github.com/HentaiSaru)
 
+圖片連結 : `[連結文字] (連結)`
+![Google 圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1200px-Google_Chrome_icon_%28February_2022%29.svg.png)
+
 直接連結 : `<連結>`
 <https://github.com/HentaiSaru>
 
