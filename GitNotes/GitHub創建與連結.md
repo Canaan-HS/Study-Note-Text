@@ -36,7 +36,7 @@ https://github.com/
 
 <br>
 
-## 如果已經設置好連結資料夾,再需上傳資料夾輸入
+## 如果已經設置好連結資料夾, 上傳資料夾然後輸入
 ```
 git remote add origin https://github.com/GitHub_ID/存儲庫名稱.git
 ```
