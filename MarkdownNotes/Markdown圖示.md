@@ -2,6 +2,28 @@
 
 | 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| 🚶 | `:walking:` | 🏃 | `:runner:` | 🏃 | `:running:` |
+| 👫 | `:couple:` | 👪 | `:family:` | 👬 | `:two_men_holding_hands:` |
+| 👭 | `:two_women_holding_hands:` | 💃 | `:dancer:` |
+| 👯 | `:dancers:` | 🙆 | `:ok_woman:` | 🙅 | `:no_good:` |
+| 💁 | `:information_desk_person:` | 🙋 | `:raising_hand:` | 👰 | `:bride_with_veil:` |
+| 🙎 | `:person_with_pouting_face:` | 🙍 | `:person_frowning:` | 🙇 | `:bow:` |
+| :couplekiss: | `:couplekiss:` | 💑 | `:couple_with_heart:` | 💆 | `:massage:` |
+| 💇 | `:haircut:` | 💅 | `:nail_care:` | 👦 | `:boy:` |
+| 👧 | `:girl:` | 👩 | `:woman:` | 👨 | `:man:` |
+| 👶 | `:baby:` | 👵 | `:older_woman:` | 👴 | `:older_man:` |
+| 👱 | `:person_with_blond_hair:` | 👲 | `:man_with_gua_pi_mao:` | 👳 | `:man_with_turban:` |
+| 👷 | `:construction_worker:` | 👮 | `:cop:` | 👼 | `:angel:` |
+| 👸 | `:princess:` |
+| 💂 | `:guardsman:` | 👤 | `:bust_in_silhouette:` |
+| 👥 | `:busts_in_silhouette:` 
+
+---
+
+> **表情**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | :bowtie: | `:bowtie:` | 😄 | `:smile:` | 😆 | `:laughing:` |
 | 😊 | `:blush:` | 😃 | `:smiley:` | ☺️ | `:relaxed:` |
 | 😏 | `:smirk:` | 😍 | `:heart_eyes:` | 😘 | `:kissing_heart:` |
@@ -22,47 +44,82 @@
 | 😪 | `:sleepy:` | 😋 | `:yum:` | 😷 | `:mask:` |
 | 😎 | `:sunglasses:` | 😵 | `:dizzy_face:` | 👿 | `:imp:` |
 | 😈 | `:smiling_imp:` | 😐 | `:neutral_face:` | 😶 | `:no_mouth:` |
-| 😇 | `:innocent:` | 👽 | `:alien:` | 💛 | `:yellow_heart:` |
-| 💙 | `:blue_heart:` | 💜 | `:purple_heart:` | ❤️ | `:heart:` |
-| 💚 | `:green_heart:` | 💔 | `:broken_heart:` | 💓 | `:heartbeat:` |
-| 💗 | `:heartpulse:` | 💕 | `:two_hearts:` | 💞 | `:revolving_hearts:` |
-| 💘 | `:cupid:` | 💖 | `:sparkling_heart:` | ✨ | `:sparkles:` |
-| ⭐️ | `:star:` | 🌟 | `:star2:` | 💫 | `:dizzy:` |
+| 😇 | `:innocent:` | 👽 | `:alien:` | 💩 | `:hankey:` |
+| 💩 | `:poop:` | 💩 | `:shit:` | 😻 | `:heart_eyes_cat:` | 😽 | `:kissing_cat:` | 😼 | `:smirk_cat:` |
+| 🙀 | `:scream_cat:` | 😿 | `:crying_cat_face:` | 😹 | `:joy_cat:` |
+| 😾 | `:pouting_cat:` | 👹 | `:japanese_ogre:` | 👺 | `:japanese_goblin:` |
+| 🙈 | `:see_no_evil:` | 🙉 | `:hear_no_evil:` | 🙊 | `:speak_no_evil:` |
+| 😺 | `:smiley_cat:` | 😸 | `:smile_cat:` |
+| 🌞 | `:sun_with_face:` | 🌝 | `:full_moon_with_face:` | 🌚 | 
+`:new_moon_with_face:` |
+
+---
+
+> **心星**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 💛 | `:yellow_heart:` | 💙 | `:blue_heart:` | 💜 | `:purple_heart:`|
+| ❤️ | `:heart:` | 💚 | `:green_heart:` | 💔 | `:broken_heart:` |
+| 💓 | `:heartbeat:` | 💗 | `:heartpulse:` | 💕 | `:two_hearts:` |
+| 💞 | `:revolving_hearts:` | 💘 | `:cupid:` | 💖 | `:sparkling_heart:` |
+| ✨ | `:sparkles:` | ⭐️ | `:star:` | 🌟 | `:star2:` | 
+| 💫 | `:dizzy:` | 💝 | `:gift_heart:` |
+
+---
+
+> **手勢**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 👍 | `:+1:` | 👍 | `:thumbsup:` | 👎 | `:-1:` |
+| 👎 | `:thumbsdown:` | 👌 | `:ok_hand:` | 👊 | `:punch:` |
+| 👊 | `:facepunch:` | ✊ | `:fist:` | ✌️ | `:v:` |
+| 👋 | `:wave:` | ✋ | `:hand:` | ✋ | `:raised_hand:` |
+| 👐 | `:open_hands:` | ☝️ | `:point_up:` | 👇 | `:point_down:` |
+| 👈 | `:point_left:` | 👉 | `:point_right:` | 🙌 | `:raised_hands:` |
+| 🙏 | `:pray:` | 👆 | `:point_up_2:` | 🖕 | `:fu:` |
+| 👏 | `:clap:` | 💪 | `:muscle:` | 🤘 | `:metal:` |
+
+---
+
+> **其他**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 💥 | `:boom:` | 💥 | `:collision:` | 💢 | `:anger:` |
 | ❗️ | `:exclamation:` | ❓ | `:question:` | ❕ | `:grey_exclamation:` |
 | ❔ | `:grey_question:` | 💤 | `:zzz:` | 💨 | `:dash:` |
 | 💦 | `:sweat_drops:` | 🎶 | `:notes:` | 🎵 | `:musical_note:` |
-| 🔥 | `:fire:` | 💩 | `:hankey:` | 💩 | `:poop:` |
-| 💩 | `:shit:` | 👍 | `:+1:` | 👍 | `:thumbsup:` |
-| 👎 | `:-1:` | 👎 | `:thumbsdown:` | 👌 | `:ok_hand:` |
-| 👊 | `:punch:` | 👊 | `:facepunch:` | ✊ | `:fist:` |
-| ✌️ | `:v:` | 👋 | `:wave:` | ✋ | `:hand:` |
-| ✋ | `:raised_hand:` | 👐 | `:open_hands:` | ☝️ | `:point_up:` |
-| 👇 | `:point_down:` | 👈 | `:point_left:` | 👉 | `:point_right:` |
-| 🙌 | `:raised_hands:` | 🙏 | `:pray:` | 👆 | `:point_up_2:` |
-| 👏 | `:clap:` | 💪 | `:muscle:` | 🤘 | `:metal:` |
-| 🖕 | `:fu:` | 🚶 | `:walking:` | 🏃 | `:runner:` |
-| 🏃 | `:running:` | 👫 | `:couple:` | 👪 | `:family:` |
-| 👬 | `:two_men_holding_hands:` | 👭 | `:two_women_holding_hands:` | 💃 | `:dancer:` |
-| 👯 | `:dancers:` | 🙆 | `:ok_woman:` | 🙅 | `:no_good:` |
-| 💁 | `:information_desk_person:` | 🙋 | `:raising_hand:` | 👰 | `:bride_with_veil:` |
-| 🙎 | `:person_with_pouting_face:` | 🙍 | `:person_frowning:` | 🙇 | `:bow:` |
-| :couplekiss: | `:couplekiss:` | 💑 | `:couple_with_heart:` | 💆 | `:massage:` |
-| 💇 | `:haircut:` | 💅 | `:nail_care:` | 👦 | `:boy:` |
-| 👧 | `:girl:` | 👩 | `:woman:` | 👨 | `:man:` |
-| 👶 | `:baby:` | 👵 | `:older_woman:` | 👴 | `:older_man:` |
-| 👱 | `:person_with_blond_hair:` | 👲 | `:man_with_gua_pi_mao:` | 👳 | `:man_with_turban:` |
-| 👷 | `:construction_worker:` | 👮 | `:cop:` | 👼 | `:angel:` |
-| 👸 | `:princess:` | 😺 | `:smiley_cat:` | 😸 | `:smile_cat:` |
-| 😻 | `:heart_eyes_cat:` | 😽 | `:kissing_cat:` | 😼 | `:smirk_cat:` |
-| 🙀 | `:scream_cat:` | 😿 | `:crying_cat_face:` | 😹 | `:joy_cat:` |
-| 😾 | `:pouting_cat:` | 👹 | `:japanese_ogre:` | 👺 | `:japanese_goblin:` |
-| 🙈 | `:see_no_evil:` | 🙉 | `:hear_no_evil:` | 🙊 | `:speak_no_evil:` |
-| 💂 | `:guardsman:` | 💀 | `:skull:` | 🐾 | `:feet:` |
+| 🔥 | `:fire:` | 💬 | `:speech_balloon:` | 💭 | `:thought_balloon:` |
+| 💀 | `:skull:` | 🐾 | `:feet:` |
 | 👄 | `:lips:` | 💋 | `:kiss:` | 💧 | `:droplet:` |
 | 👂 | `:ear:` | 👀 | `:eyes:` | 👃 | `:nose:` |
-| 👅 | `:tongue:` | 💌 | `:love_letter:` | 👤 | `:bust_in_silhouette:` |
-| 👥 | `:busts_in_silhouette:` | 💬 | `:speech_balloon:` | 💭 | `:thought_balloon:` |
+| 👅 | `:tongue:` | 💌 | `:love_letter:` | 🐾 | `:paw_prints:` |
+| 🐚 | `:shell:` | 🌐 | `:globe_with_meridians:` | 🍴 | `:fork_and_knife:` |
+
+---
+
+> **天氣**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ☀️ | `:sunny:` | ☔️ | `:umbrella:` | ☁️ | `:cloud:` |
+| ❄️ | `:snowflake:` | ⛄️ | `:snowman:` | ⚡️ | `:zap:` |
+| 🌀 | `:cyclone:` | 🌁 | `:foggy:` | 🌊 | `:ocean:` |
+| ⛅️ | `:partly_sunny:` |
+
+---
+
+> **天體**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 🌑 | `:new_moon:` | 🌒 | `:waxing_crescent_moon:` | 🌓 | `:first_quarter_moon:` |
+| 🌔 | `:waxing_gibbous_moon:` | 🌕 | `:full_moon:` | 🌖 | `:waning_gibbous_moon:` |
+| 🌗 | `:last_quarter_moon:` | 🌘 | `:waning_crescent_moon:` | 🌜 | `:last_quarter_moon_with_face:` |
+| 🌛 | `:first_quarter_moon_with_face:` | 🌔 | `:moon:` | 🌍 | `:earth_africa:` |
+| 🌎 | `:earth_americas:` | 🌏 | `:earth_asia:` | 🌌 | `:milky_way:` |
 
 ---
 
@@ -70,9 +127,14 @@
 
 | 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ☀️ | `:sunny:` | ☔️ | `:umbrella:` | ☁️ | `:cloud:` |
-| ❄️ | `:snowflake:` | ⛄️ | `:snowman:` | ⚡️ | `:zap:` |
-| 🌀 | `:cyclone:` | 🌁 | `:foggy:` | 🌊 | `:ocean:` |
+| 🌋 | `:volcano:` |
+
+---
+
+> **動物**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 🐱 | `:cat:` | 🐶 | `:dog:` | 🐭 | `:mouse:` |
 | 🐹 | `:hamster:` | 🐰 | `:rabbit:` | 🐺 | `:wolf:` |
 | 🐸 | `:frog:` | 🐯 | `:tiger:` | 🐨 | `:koala:` |
@@ -93,21 +155,96 @@
 | 🐖 | `:pig2:` | 🐁 | `:mouse2:` | 🐂 | `:ox:` |
 | 🐲 | `:dragon_face:` | 🐡 | `:blowfish:` | 🐊 | `:crocodile:` |
 | 🐪 | `:dromedary_camel:` | 🐆 | `:leopard:` | 🐈 | `:cat2:` |
-| 🐩 | `:poodle:` | 🐾 | `:paw_prints:` | 💐 | `:bouquet:` |
+| 🐩 | `:poodle:` |
+
+---
+
+> **花草**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 💐 | `:bouquet:` |
 | 🌸 | `:cherry_blossom:` | 🌷 | `:tulip:` | 🍀 | `:four_leaf_clover:` |
 | 🌹 | `:rose:` | 🌻 | `:sunflower:` | 🌺 | `:hibiscus:` |
 | 🍁 | `:maple_leaf:` | 🍃 | `:leaves:` | 🍂 | `:fallen_leaf:` |
 | 🌿 | `:herb:` | 🍄 | `:mushroom:` | 🌵 | `:cactus:` |
 | 🌴 | `:palm_tree:` | 🌲 | `:evergreen_tree:` | 🌳 | `:deciduous_tree:` |
 | 🌰 | `:chestnut:` | 🌱 | `:seedling:` | 🌼 | `:blossom:` |
-| 🌾 | `:ear_of_rice:` | 🐚 | `:shell:` | 🌐 | `:globe_with_meridians:` |
-| 🌞 | `:sun_with_face:` | 🌝 | `:full_moon_with_face:` | 🌚 | `:new_moon_with_face:` |
-| 🌑 | `:new_moon:` | 🌒 | `:waxing_crescent_moon:` | 🌓 | `:first_quarter_moon:` |
-| 🌔 | `:waxing_gibbous_moon:` | 🌕 | `:full_moon:` | 🌖 | `:waning_gibbous_moon:` |
-| 🌗 | `:last_quarter_moon:` | 🌘 | `:waning_crescent_moon:` | 🌜 | `:last_quarter_moon_with_face:` |
-| 🌛 | `:first_quarter_moon_with_face:` | 🌔 | `:moon:` | 🌍 | `:earth_africa:` |
-| 🌎 | `:earth_americas:` | 🌏 | `:earth_asia:` | 🌋 | `:volcano:` |
-| 🌌 | `:milky_way:` | ⛅️ | `:partly_sunny:` |  |  |
+| 🌾 | `:ear_of_rice:` |
+
+---
+
+> **甜食**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 🍩 | `:doughnut:` |
+| 🍮 | `:custard:` | 🍦 | `:icecream:` | 🍨 | `:ice_cream:` |
+| 🍧 | `:shaved_ice:` | 🎂 | `:birthday:` | 🍰 | `:cake:` |
+| 🍪 | `:cookie:` | 🍫 | `:chocolate_bar:` | 🍬 | `:candy:` |
+| 🍭 | `:lollipop:` | 🍯 | `:honey_pot:` | 🍢 | `:oden:` |
+| 🍡 | `:dango:` |
+
+---
+
+> **蔬果**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 🍏 | `:green_apple:` | 🍊 | `:tangerine:` | 🍋 | `:lemon:` |
+| 🍒 | `:cherries:` | 🍇 | `:grapes:` | 🍉 | `:watermelon:` |
+| 🍓 | `:strawberry:` | 🍑 | `:peach:` | 🍈 | `:melon:` |
+| 🍌 | `:banana:` | 🍐 | `:pear:` | 🍍 | `:pineapple:` |
+| 🍠 | `:sweet_potato:` | 🍆 | `:eggplant:` | 🍅 | `:tomato:` |
+| 🌽 | `:corn:` | 🍎 | `:apple:` |
+
+---
+
+> **食物**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 🍕 | `:pizza:` | 🍔 | `:hamburger:` | 🍟 | `:fries:` |
+| 🍗 | `:poultry_leg:` | 🍖 | `:meat_on_bone:` | 🍝 | `:spaghetti:` |
+| 🍛 | `:curry:` | 🍤 | `:fried_shrimp:` | 🍱 | `:bento:` |
+| 🍣 | `:sushi:` | 🍥 | `:fish_cake:` | 🍙 | `:rice_ball:` |
+| 🍘 | `:rice_cracker:` | 🍚 | `:rice:` | 🍜 | `:ramen:` |
+| 🍲 | `:stew:` |
+| 🥚 | `:egg:` | 🍞 | `:bread:` |
+
+---
+
+> **飲品**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 🍹 | `:tropical_drink:` | 🍷 | `:wine_glass:` | 🍸 | `:cocktail:` |
+| 🍺 | `:beer:` | 🍻 | `:beers:` | 🍶 | `:sake:` |
+| 🍵 | `:tea:` | 🍼 | `:baby_bottle:` | ☕️ | `:coffee:` |
+
+---
+
+> **衣物**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 👞 | `:shoe:` | 👡 | `:sandal:` | 👠 | `:high_heel:` |
+| 💄 | `:lipstick:` | 👢 | `:boot:` | 👕 | `:shirt:` |
+| 👕 | `:tshirt:` | 👔 | `:necktie:` | 👚 | `:womans_clothes:` |
+| 👗 | `:dress:` | 🎽 | `:running_shirt_with_sash:` | 👖 | `:jeans:` |
+| 👘 | `:kimono:` | 👙 | `:bikini:` | 🎀 | `:ribbon:` |
+| 🎩 | `:tophat:` | 👑 | `:crown:` | 👒 | `:womans_hat:` |
+| 👞 | `:mans_shoe:` |
+
+---
+
+> **用品**
+
+| 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 🌂 | `:closed_umbrella:` | 💼 | `:briefcase:` |
+| 👜 | `:handbag:` | 👝 | `:pouch:` | 👛 | `:purse:` |
+| 👓 | `:eyeglasses:` | 🎣 | `:fishing_pole_and_fish:` |
 
 ---
 
@@ -115,7 +252,7 @@
 
 | 圖示 | 語法 | 圖示 | 語法 | 圖示 | 語法 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 🎍 | `:bamboo:` | 💝 | `:gift_heart:` | 🎎 | `:dolls:` |
+| 🎍 | `:bamboo:` | 🎎 | `:dolls:` |
 | 🎒 | `:school_satchel:` | 🎓 | `:mortar_board:` | 🎏 | `:flags:` |
 | 🎆 | `:fireworks:` | 🎇 | `:sparkler:` | 🎐 | `:wind_chime:` |
 | 🎑 | `:rice_scene:` | 🎃 | `:jack_o_lantern:` | 👻 | `:ghost:` |
@@ -173,35 +310,7 @@
 | 📝 | `:memo:` | 📝 | `:pencil:` | 📖 | `:book:` |
 | 🎨 | `:art:` | 🎤 | `:microphone:` | 🎧 | `:headphones:` |
 | 🎺 | `:trumpet:` | 🎷 | `:saxophone:` | 🎸 | `:guitar:` |
-| 👞 | `:shoe:` | 👡 | `:sandal:` | 👠 | `:high_heel:` |
-| 💄 | `:lipstick:` | 👢 | `:boot:` | 👕 | `:shirt:` |
-| 👕 | `:tshirt:` | 👔 | `:necktie:` | 👚 | `:womans_clothes:` |
-| 👗 | `:dress:` | 🎽 | `:running_shirt_with_sash:` | 👖 | `:jeans:` |
-| 👘 | `:kimono:` | 👙 | `:bikini:` | 🎀 | `:ribbon:` |
-| 🎩 | `:tophat:` | 👑 | `:crown:` | 👒 | `:womans_hat:` |
-| 👞 | `:mans_shoe:` | 🌂 | `:closed_umbrella:` | 💼 | `:briefcase:` |
-| 👜 | `:handbag:` | 👝 | `:pouch:` | 👛 | `:purse:` |
-| 👓 | `:eyeglasses:` | 🎣 | `:fishing_pole_and_fish:` | ☕️ | `:coffee:` |
-| 🍵 | `:tea:` | 🍶 | `:sake:` | 🍼 | `:baby_bottle:` |
-| 🍺 | `:beer:` | 🍻 | `:beers:` | 🍸 | `:cocktail:` |
-| 🍹 | `:tropical_drink:` | 🍷 | `:wine_glass:` | 🍴 | `:fork_and_knife:` |
-| 🍕 | `:pizza:` | 🍔 | `:hamburger:` | 🍟 | `:fries:` |
-| 🍗 | `:poultry_leg:` | 🍖 | `:meat_on_bone:` | 🍝 | `:spaghetti:` |
-| 🍛 | `:curry:` | 🍤 | `:fried_shrimp:` | 🍱 | `:bento:` |
-| 🍣 | `:sushi:` | 🍥 | `:fish_cake:` | 🍙 | `:rice_ball:` |
-| 🍘 | `:rice_cracker:` | 🍚 | `:rice:` | 🍜 | `:ramen:` |
-| 🍲 | `:stew:` | 🍢 | `:oden:` | 🍡 | `:dango:` |
-| 🥚 | `:egg:` | 🍞 | `:bread:` | 🍩 | `:doughnut:` |
-| 🍮 | `:custard:` | 🍦 | `:icecream:` | 🍨 | `:ice_cream:` |
-| 🍧 | `:shaved_ice:` | 🎂 | `:birthday:` | 🍰 | `:cake:` |
-| 🍪 | `:cookie:` | 🍫 | `:chocolate_bar:` | 🍬 | `:candy:` |
-| 🍭 | `:lollipop:` | 🍯 | `:honey_pot:` | 🍎 | `:apple:` |
-| 🍏 | `:green_apple:` | 🍊 | `:tangerine:` | 🍋 | `:lemon:` |
-| 🍒 | `:cherries:` | 🍇 | `:grapes:` | 🍉 | `:watermelon:` |
-| 🍓 | `:strawberry:` | 🍑 | `:peach:` | 🍈 | `:melon:` |
-| 🍌 | `:banana:` | 🍐 | `:pear:` | 🍍 | `:pineapple:` |
-| 🍠 | `:sweet_potato:` | 🍆 | `:eggplant:` | 🍅 | `:tomato:` |
-| 🌽 | `:corn:` |  |  |  |  |
+
 
 ---
 
