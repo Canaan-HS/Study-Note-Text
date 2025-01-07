@@ -192,14 +192,23 @@ width="auto">
 
 <br><hr><br>
 
-## 小組倉庫創建ssh
+## SSH 密鑰連結
 
 + **首先在下載下來的文件路徑開啟cmd,然後輸入**
 ```
-ssh-keygen -t rsa -b 4096 -C "your name"
+ssh-keygen -t ed25519 -C "your mail"
+
+(上面的不支援就用下面的)
+
+ssh-keygen -t rsa -b 4096 -C "your mail"
+
+(額外硬件驗證 [保存到 USB 之類的])
+
+ssh-keygen -t ed25519-sk -C "your mail"
+ssh-keygen -t ecdsa-sk -C "your mail"
 ```
 
-+ **接著一直按Enter直到出現**
++ **接著一直按 Enter 直到看到 (不一定完全一樣)**
 <pre>
 The key fingerprint is:
 SHA256:************************** your@gmail.com or name
@@ -220,14 +229,18 @@ The key's randomart image is:
 + **號這邊正常就是你的密鑰,當然不會是這符號**
 <pre>
 之後到使用者路徑
-例如: C:/Users/user/.ssh/id_rsa.pub
+例如 (根據創建的類型):
 
-找到這個id_rsa.pub
-然後使用CMD執行命令
+%userprofile%/.ssh/*.pub
 
+C:/Users/user/.ssh/id_ed25519.pub
+C:/Users/user/.ssh/id_rsa.pub
+
+找到 *.pub
+使用CMD 執行以下命令 將密鑰複製出來
+
+clip < id_ed25519.pub
 clip < id_rsa.pub
-
-將該密鑰複製出來
 </pre>
 
 + **接著到要設置的存儲庫,選擇設定**
@@ -246,5 +259,7 @@ clip < id_rsa.pub
 + **測試 SSH 是否連接到 GitHub**
 ```
 ssh -T git@github.com
+
+首次連接還需要輸入 yes 驗證
 ```
 <hr>
